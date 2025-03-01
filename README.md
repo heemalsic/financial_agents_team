@@ -40,7 +40,7 @@ Run the script to execute an example query for NVDA stock:
 ```sh
 python script.py
 ```
-
+![Agent Workflow](https://github.com/heemalsic/financial_agents_team/blob/main/image.png)
 ```
 
 ## Contributing

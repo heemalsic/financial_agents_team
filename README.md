@@ -43,9 +43,9 @@ python script.py
 ## Output Screenshot
 ![Agent Workflow](https://github.com/heemalsic/financial_agents_team/blob/main/image.png)
 
-##To-do
+## To-do
 
-Create a user interface for the app
+- Add a simple user interface for the app.
 ```
 
 ## Contributing

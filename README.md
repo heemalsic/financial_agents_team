@@ -1,1 +1,3 @@
-# financial_agents_team
+# Financial Team Agents using Gemini API  
+
+yo
